@@ -1,16 +1,23 @@
 # Class 6: The DOM, Domain Modeling, and Introduction to Objects
 
+## Daily Plan
+- Notes:
+    - Anything top of mind?
+    - How was your first PPH??
+    - Guest lectures Friday/Monday
+    - 1:1s with Scott this week!
+
+- Code Review
+- Domain Modeling
+- HTML: The DOM
+- JS:
+    - Objects
+    - Methods
+    - Properties
+
+
 <a id="top"></a>
 ## Lecture 6
-
-## Today's Schedule
-- Announcements
-  - Review feedback from week 1 surveys
-- Go over student surveys *[15 minutes]*
-- Discuss upcoming Career Coaching assignments
-- Code Review *[30 minutes]*
-- [Go over the assigned readings](#readings) *[60 minutes]*
-- Code demo *[75 minutes]*
 
 ## Learning Objectives
 
