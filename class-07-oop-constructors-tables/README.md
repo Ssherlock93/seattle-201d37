@@ -1,5 +1,15 @@
 # Class 7: Object-Oriented Programming with Constructor Functions; HTML Tables
 
+## Daily Plan
+- Notes:
+    - Anything top of mind?
+    - Feedback notes...
+
+- Code Review
+- Constructor functions
+- Tables
+- Lab preview
+
 <a id="top"></a>
 ## Lecture 7
 
