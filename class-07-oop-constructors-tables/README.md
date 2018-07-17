@@ -10,6 +10,31 @@
 - Tables
 - Lab preview
 
+
+
+### 1:1 Schedules for this week!
+| Name | 7/17 | 7/18 | 7/19 |
+|---|---|---|---|
+| Andrew Fields | 2:00p |
+| Brai Frauen | 2:20p	 |
+| Candice Thomas | 2:40p	 |
+| Daniel Frey | 3:00p	 |
+| Diego Ramos | 3:20p	 |
+| Dmitry Polevoy | 3:40p	 |
+| Elijah Bruce |   | 2:00p |
+| Heather Palmer |   | 2:20p |
+| Jason Hiskey |   | 2:40p |
+| Joyce Liao |   | 3:00p |
+| Katherine Smith |   | 3:20p |
+| Kristian Esvelt |   | 3:40p |
+| Peter Murphy |   |   | 1:40p |
+| Sean Sherlock |   |   | 2:00p |
+| Trevor Stam |   |   | 2:20p |
+| Vince Masten |   |   | 2:40p |
+| Jack Teasell |   |   | 3:00p |
+| Pablo Rosales |   |   | 3:20p |
+| Reed Hopkins |   |   | 3:40p |
+
 <a id="top"></a>
 ## Lecture 7
 
