@@ -1,5 +1,15 @@
 # Class 8: HTML Forms and JS Events
 
+## Daily Plan
+- Notes
+    - Anything top of mind?
+
+- Code Review
+- (re)Intros
+- JS: Forms / Events
+- Lab Preview
+
+
 <a id="top"></a>
 ## Lecture 8
 
