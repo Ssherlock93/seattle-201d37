@@ -1,0 +1,49 @@
+* {
+    width: 100%;
+    box-sizing: border-box;
+    /* font-size: 0; */
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+header.container {
+  width: 100%;
+  background: #faf7a7;
+  position: relative;
+}
+
+.logo-detail {
+    position: relative;
+}
+
+.logo-detail img {
+  width: 7.5%;
+}
+
+main.container {
+    margin-top: 2%;
+}
+
+.main-content {
+    max-width: 30%;
+    display: inline-block;
+    margin-left: 1.75%;
+}
+
+figcaption {
+    font-size: 2vw;
+}
+
+header.container * {
+  display: inline;
+}
+
+
+footer.container {
+    position: fixed;
+    bottom: 0;
+    width: 100%
+}

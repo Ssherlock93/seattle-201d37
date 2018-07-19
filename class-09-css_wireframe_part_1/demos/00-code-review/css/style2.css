@@ -1,0 +1,107 @@
+h1 {
+    font: bold;
+    font-size: 3.5em; 
+    text-align: center;
+    font-family: 'Gaegu', cursive;
+}
+
+h2 {
+    font: bold;
+    font-size: 1.5em; 
+    text-indent: 6ch;
+    margin: 40px;
+    color: #1a0d00;
+}
+
+h3 {
+    font-size: 1em; 
+    text-indent: 6ch;
+    margin-left: 90px;
+    margin-bottom: 2ch;
+    color: #1a0d00;
+}
+
+div {
+    /* text-indent: 10ch; */
+    margin-left: 15ch;
+    margin-bottom: 40px;
+}
+
+form {
+    /* text-indent: 10ch; */
+    margin-left: 15ch;
+    margin-bottom: 40px;
+}
+
+footer {
+    text-indent: 9.5ch;
+}
+
+
+
+ol {
+    margin-left: 150px;
+    list-style-type: none;
+}
+
+ul {
+    margin-left: 180px;
+    list-style-type: square type disc;
+    font-family: 'Helvetica';
+    margin-top: 10pt;
+    color: #4d2600;
+    font-size: 15px;
+}
+
+
+body {
+    font-family: 'Courier New';
+    background-color: blanchedalmond;
+
+}
+
+img {
+    border-radius: 70%;
+    max-width: 30%;
+    opacity: 1;
+    float: right;
+    margin-right: 13%;
+    margin-top: 2%;
+}
+
+
+header {
+    margin-top: 40px;
+}
+
+footer {
+    color: #4d2600;
+    font: bold;
+    font-size: 15px;
+    font-family: 'Gaegu', cursive;
+    margin-left: 4%;
+}
+
+
+table {
+    /* align-content: flex-start;
+    justify-content: flex-start; */
+    /* display: inline-block; */
+    content-layout: auto;
+    border: 1px solid black;
+    margin-top: 80px;
+    margin-left: 130px;
+    text-align: left;
+}
+
+#hour-row th {
+    border: black;
+    padding: 1pc;
+}
+
+#hour-row tr td {
+    padding: 0.5pc;
+}
+
+
+

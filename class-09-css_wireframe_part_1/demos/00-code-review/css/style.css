@@ -1,0 +1,68 @@
+h1 {
+    font: bold;
+    font-size: 3.5em; 
+    text-indent: 4ch;
+    font-family: 'Gaegu', cursive;
+}
+
+h2 {
+    font: bold;
+    font-size: 1.5em; 
+    text-indent: 6ch;
+    margin: 40px;
+    color: #1a0d00;
+}
+
+div {
+    /* text-indent: 10ch; */
+    margin-left: 15ch;
+}
+
+footer {
+    text-indent: 9.5ch;
+}
+
+
+
+ol {
+    margin-left: 150px;
+    list-style-type: none;
+}
+
+ul {
+    margin-left: 180px;
+    list-style-type: square type disc;
+    font-family: 'Helvetica';
+    margin-top: 10pt;
+    color: #4d2600;
+    font-size: 15px;
+}
+
+
+body {
+    font-family: 'Courier New';
+    background-color: blanchedalmond;
+
+}
+
+img {
+    border-radius: 70%;
+    max-width: 40%;
+    opacity: 1;
+    float: right;
+    margin-right: 13%;
+    margin-top: 4%;
+}
+
+
+header {
+    margin-top: 40px;
+}
+
+footer {
+    color: #4d2600;
+    font: bold;
+    font-size: 15px;
+    font-family: 'Gaegu', cursive;
+    margin-left: 4%;
+}

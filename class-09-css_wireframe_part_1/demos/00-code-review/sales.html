@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Cookie Stand</title>
+  <link href="https://fonts.googleapis.com/css?family=Amiko|Gaegu|Indie+Flower|Knewave|Titillium+Web" rel="stylesheet">
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/style2.css">
+</head>
+<body>
+  <header>
+    <h1>Production Model</h1>
+    <img src="salmon.png" alt="salmon"/>
+    <br></br>
+    <nav class="main-nav">
+      <ol>
+
+        <li><a href = "index.html">Home Page</a></li>
+        <li>Photo Gallery</li>
+        <li>Style Guide</li>
+        <br></br>
+      </ol>
+
+    </nav>
+
+  </header>
+  <main class="container">
+    <div>
+      <p>Salmon-cookie production model based on locations, the number of customers for each location and how many cookies they buy in average. </p>
+      <br></br>
+      <p>
+        Please fill in information of your store and we will add it to our production table below!</p>
+    </div>
+
+    <h3>Forms</h3>
+    <form id="main-form">
+      <input name="name" type="text" placeholder="store name">
+      <input name="min" type="number" placeholder="min. customer">
+      <input name="max" type="number" placeholder="max. customer">
+      <input name="avg" type="number" placeholder="cookies sold / customer" step="0.1">
+
+      <button type="submit">submit</button>
+    </form>
+
+    <table id = "hour-row"></table>
+    <br></br>
+    <br></br>
+  </main>
+  <footer>copyright 2018</footer>
+  <script src="app.js"></script>
+</body>
+</html>
