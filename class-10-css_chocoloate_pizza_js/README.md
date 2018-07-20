@@ -1,15 +1,13 @@
-# Class 10: JS Debugging and More CSS Layout
+# Class 10: CSS Layout Fundamentals & Week 2 JS Review
 
 <a id="top"></a>
 ## Lecture 10
 
 ## Today's Schedule
-- Announcements
-  - Reminder: weekly surveys will go out to students today
-  - Project Week starts a week from today! Let's look over some samples of projects from recent offerings of this class.
-- Code Review *[90 minutes]*
-- [Go over the assigned readings](#readings) *[60 minutes]*
-- Code demo *[30 minutes]*
+- Review: CSS Fundamentals
+- Review: Objects, Constructors, Events, and Forms
+- Experiment: Let's have fun with CSS!
+- Assignment Prep: Chocolate Pizza
 
 **Learning Objectives**
 
