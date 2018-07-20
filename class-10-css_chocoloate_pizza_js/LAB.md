@@ -10,7 +10,7 @@ Create a new repository, either with 'git init' and connecting it to GitHub, or 
 
 The assets (Base design comp and images) can be found in the adjacent ***lab-assets*** directory in this repo. Download these files and move the assets into your repo. The file "*PREVIEW" contains an image of what you are striving to build in HTML and CSS, so be sure to open it up and keep it handy... ***but note that it is not for actual use on the page.*** You'll also be provided a couple of paper copies of this image... it is suggested you use it to mark up and sketch out page structure and identify where the image assets need to be placed.
 
-All of the other image files are assets you will need to realize the design comp. It will be useful to make an inventory of them and where they will go on the page... but how you choose to manage and organize this inventory is up to you and your partner's resourcefulness. It's best if you have a **plan** for how you'll manage this.
+All of the other image files are assets you will need to realize the design comp. It will be useful to make an inventory of them and where they will go on the page... but how you choose to manage and organize this inventory is up to your resourcefulness. It's best if you have a **plan** for how you'll manage this.
 
 Suggestion: set up your work directory like this:
 
