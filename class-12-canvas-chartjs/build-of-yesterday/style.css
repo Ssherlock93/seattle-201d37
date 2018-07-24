@@ -1,0 +1,14 @@
+* {
+  font-family: Arial;
+  color: blue;
+}
+
+section {
+  border: 2px solid blue;
+}
+
+img {
+  border: 2px solid yellow;
+  margin: 30px;
+  width: 200px;
+}
