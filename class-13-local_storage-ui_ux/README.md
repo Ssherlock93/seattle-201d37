@@ -6,8 +6,8 @@
 ## Today's Schedule
 - Announcements
 - Code Review *[45 minutes]*
-- [Go over the assigned readings](#readings) *[30 minutes]*
 - [UI/UX Discussion](#uiux) *[30 minutes]*
+- [Go over the assigned readings](#readings) *[30 minutes]*
 - Local Storage Code demo *[45 minutes]*
 
 **Learning Objectives**
@@ -15,17 +15,6 @@
 As a result of completing Lecture 13 of Code 201, students will:
 - Be able to understand concepts in persistence and the JavaScript commands needed to read/write to/from local storage, as measured by successful completion of the daily code assignment and a quiz administered in Canvas.
 - Demonstrate knowledge and command of JSON syntax and structure, as measured by successful completion of the daily code assignment and a quiz administered in Canvas.
-
-<a id="readings"></a>
-
-## Readings
-
-**Read this article on local storage**
-
-- [Read this article on local storage](http://diveintohtml5.info/storage.html)
-- Local storage is the gateway to understanding basic concepts of persistence
-
-[-top-](#top)
 
 <a id="uiux"></a>
 ## UI & UX discussion
@@ -41,3 +30,14 @@ Let's have a discussion on UI/UX, and also look at a few websites (some awesome,
 - [Seattle Times project on the Ehlwa River](https://github.com/seattletimes/elwha)
 
 When you start with your own projects, one of the things you will be fully responsible for is UI and UX. Be thoughtful. Find a design or layout you like and build something that mimics it. ALWAYS try to view your project from the perspective of someone who has never seen it before. Does the user need instructions? Are the user interactions clear to a new user?
+
+<a id="readings"></a>
+
+## Readings
+
+**Read this article on local storage**
+
+- [Read this article on local storage](http://diveintohtml5.info/storage.html)
+- Local storage is the gateway to understanding basic concepts of persistence
+
+[-top-](#top)
