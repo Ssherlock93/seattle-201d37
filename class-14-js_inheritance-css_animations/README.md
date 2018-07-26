@@ -1,14 +1,29 @@
 # Class 14: Advanced JS Topics and CSS Animations
 
+## Daily Plan
+- Notes:
+    - Anything top of mind?
+    - Resubmits - reminders...
+    - Catch up - What's new?
+    - MLOs from other instructors?
+
+- Code Review
+    - Local Storage workflow?
+- Review all the things
+- Admissions Visit
+- Discussion on Final Projects!
+    - Some prior 201 projects
+        - [Welcome to Seattle](https://peterbreen.github.io/welcome-to-seattle)
+        - [Note Fellows](https://clee46.github.io/note-fellows)
+        - [Slash Whooo?](http://wohlfea.github.io/cup-game)
+        - [Algorithms](https://ztaylor2.github.io/algorithm-teacher)
+        - [Casino War](https://http://casinowar.fun)
+        - [BroNacho](http://bronacho.com)
+        - [Banana Beat](https://skyfriends.github.io/Banana-Beat)
+- Lab Preview
+
 <a id="top"></a>
 ## Lecture 14
-
-## Today's Schedule
-- Announcements
-- Code Review *[30 minutes]*
-- [Go over the assigned readings](#readings) *[30 minutes]*
-- [Advanced JS topics](#advanced) *[30 minutes]*
-- Code demo *[60 minutes]*
 
 **Learning Objectives**
 
