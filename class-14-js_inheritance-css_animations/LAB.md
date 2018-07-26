@@ -13,8 +13,10 @@ The marketing team wants the site to go live in a few hours. To give you an idea
 1. You will encounter and need to deal with a new type of form element
 1. You will need to reference elements without IDs
 
-This is a pair programming lab. One person from the pair will fork the lab repo which will contain all of the files necessary to complete the project.
-Add the other person as a collborator. That means that both of you will have privileges to push and merge to that repo.
+**This is a pair programming lab.**
+1. Driver will create a new repo called `buss_mall_cart`
+2. Copy the **contents** of `starter code/` from this directory into the repository
+3. Add the other person as a collborator. That means that both of you will have privileges to push and merge to that repo.
 
 Fill in the necessary code in the JavaScript and CSS files, but do not modify the HTML files in any way.
 

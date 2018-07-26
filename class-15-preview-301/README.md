@@ -1,5 +1,19 @@
 # Class 15: Code 301 Preview and Project Week Kickoff
 
+## Daily Plan
+- Notes:
+    - Anything top of mind?
+
+- Code Review
+- Psychological Safety Discussion
+- Final Projects Discussion
+    - Github workflow
+    - Github Issues
+    - Daily Project Outlines
+    - Canvas assignments for projects
+- 301 Preview w/John
+- Lab Preview
+
 <a id="top"></a>
 ## Lecture 15
 
