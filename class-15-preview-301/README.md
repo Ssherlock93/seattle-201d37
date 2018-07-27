@@ -1,29 +1,22 @@
 # Class 15: Code 301 Preview and Project Week Kickoff
 
 ## Daily Plan
+- 9:00a - Psychological Safety Discussion
+
 - Notes:
     - Anything top of mind?
 
-- Code Review
-- Psychological Safety Discussion
+- Code Review - review and takeaways from yesterday's lab?
 - Final Projects Discussion
     - Github workflow
     - Github Issues
     - Daily Project Outlines
     - Canvas assignments for projects
-- 301 Preview w/John
+- 11:00a - 301 Preview w/John
 - Lab Preview
 
 <a id="top"></a>
 ## Lecture 15
-
-## Today's Schedule
-- Announcements
-  - Reminder: weekly surveys will go out today
-- Discuss upcoming Career Coaching assignments
-- Code Review *[60 minutes]*
-- [301 Preview](#301) *[30 minutes]*
-- [Final Project Overview](#project) *[60 minutes]*
 
 **Learning Objectives**
 
