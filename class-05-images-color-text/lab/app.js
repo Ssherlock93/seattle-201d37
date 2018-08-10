@@ -64,13 +64,12 @@ function sumAndMultiply(a, b, c) { //eslint-disable-line
     var arr = [];
     arr.push(sumTotal[0]);
     arr.push(productTotal[0]);
-    var sumMessage = a + ' and ' + b + ' and ' + c + 'sum to ' + sumTotal + '.';
+    var sumMessage = a + ' and ' + b + ' and ' + c + ' sum to ' + sumTotal[0] + '.';
     arr.push(sumMessage);
-    var productMessage = 'The product of ' + a + ' and ' + b + 'and ' + c + ' is ' + productTotal + '.';
+    var productMessage = 'The product of ' + a + ' and ' + b + ' and ' + c + ' is ' + productTotal[0] + '.';
     arr.push(productMessage);
     return arr;
-    
-  }
+}
   
 
 // Here is the test for sumAndMultiply(); uncomment it to run it
